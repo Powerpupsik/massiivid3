@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\ARRAY3\shoppinglist\bin\Debug\shoppinglist.exe.config
+C:\Users\opilane\projects\ARRAY3\shoppinglist\bin\Debug\shoppinglist.exe
+C:\Users\opilane\projects\ARRAY3\shoppinglist\bin\Debug\shoppinglist.pdb
+C:\Users\opilane\projects\ARRAY3\shoppinglist\obj\Debug\shoppinglist.exe
+C:\Users\opilane\projects\ARRAY3\shoppinglist\obj\Debug\shoppinglist.pdb
+C:\Users\opilane\projects\ARRAY3\shoppinglist\obj\Debug\shoppinglist.csprojAssemblyReference.cache

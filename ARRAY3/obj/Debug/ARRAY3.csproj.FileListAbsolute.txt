@@ -1,0 +1,6 @@
+C:\Users\opilane\projects\ARRAY3\ARRAY3\obj\Debug\ARRAY3.csprojAssemblyReference.cache
+C:\Users\opilane\projects\ARRAY3\ARRAY3\bin\Debug\ARRAY3.exe.config
+C:\Users\opilane\projects\ARRAY3\ARRAY3\bin\Debug\ARRAY3.exe
+C:\Users\opilane\projects\ARRAY3\ARRAY3\bin\Debug\ARRAY3.pdb
+C:\Users\opilane\projects\ARRAY3\ARRAY3\obj\Debug\ARRAY3.exe
+C:\Users\opilane\projects\ARRAY3\ARRAY3\obj\Debug\ARRAY3.pdb
